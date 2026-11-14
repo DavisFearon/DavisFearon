@@ -3,7 +3,7 @@
 ### SOC Analyst
 
 About
-- Career changer from 20 years in kitchen management. Brings a proven track record of leadership, operations management, troubleshooting, training, and compliance experience. Seeking a SOC Analyst or MDR Analyst role where I can apply log analysis and alert triage skills, open to night, weekend, and holiday shifts.
+- Brings a proven track record of leadership, operations management, troubleshooting, training, and compliance experience. Seeking a SOC Analyst or MDR Analyst role where I can apply log analysis and alert triage skills, open to night, weekend, and holiday shifts.
 
 - 🔭 I'm currently working on **SOC Internship**
   
