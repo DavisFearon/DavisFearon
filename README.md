@@ -3,10 +3,11 @@
 ### SOC Analyst
 
 About
+- Career changer from 20 years in kitchen management. Brings a proven track record of leadership, operations management, troubleshooting, training, and compliance experience. Seeking a SOC Analyst or MDR Analyst role where I can apply log analysis and alert triage skills, open to night, weekend, and holiday shifts.
 
 - 🔭 I'm currently working on **SOC Internship**
   
-- Certifications CompTIA Sec+ & Net+, Google Cybersecurity, BHIS Antisyphon training Foundations of security operations & Network forensics and incident response & SOC Core skills in the age of ai & Intro to active directory
+- Certifications CompTIA Sec+ & Net+, Google Cybersecurity, BHIS Antisyphon training Foundations of security operations & Network forensics and incident response & SOC Core skills in the age of AI & Intro to active directory & Information security core skills in the age of AI
 
 - 🌱 I'm currently learning **Tryhackme  Cybersecurity and SOC Analyst paths**
 
