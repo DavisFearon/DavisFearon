@@ -2,6 +2,8 @@
 
 ### SOC Analyst
 
+About
+
 - 🔭 I'm currently working on **SOC Internship**
   
 - Certifications CompTIA Sec+ & Net+, Google Cybersecurity, BHIS Antisyphon training Foundations of security operations & Network forensics and incident response & SOC Core skills in the age of ai & Intro to active directory
